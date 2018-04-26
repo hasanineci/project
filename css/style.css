@@ -1,0 +1,80 @@
+body{
+	padding: 0px;
+	margin:0px;
+	background-color: #eee;
+}
+.headerColor{
+	height: 40px;
+	background-color: #8a1222;
+}
+.content{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+}
+.headerWrite{
+	width: 100%;
+	color: white;
+	margin-top: -52px;
+}
+.myPdf{
+	margin-left: 5%;
+	padding-left: 20px;
+}
+.content .myPdf .tablePdf .colColor{
+	background-color: #ad172b;
+	color: white;
+	height: 10px;
+	padding-left: 5px;
+}
+.tablePdf .title{
+	text-align: center;
+}
+.tablePdf img{
+	width: 140px;
+	height: 140px;
+}
+.tablePdf tr .studentFoto{
+	margin-left: 2px;
+	width: 150px;
+	height: 200px;
+}
+.tablePdf tr .hmno{
+	padding-left: 30px;
+}
+.tablePdf tr .partTwo{
+	background-color: #ad172b;
+	color: white;
+	padding-left: 5px;
+	height: 30px;
+}
+.tablePdf tr .partThree{
+	background-color: #ad172b;
+	color: white;
+	padding-left: 5px;
+	height: 30px;
+}
+.tablePdf td input{
+	height: 30px;
+	margin:  2px 2px 2px 2px;
+	padding-left: 5px;
+	margin-left: 5px;
+	border:none;
+}
+.content .tablePdf td span{
+	margin-top: -20px;
+}
+.content button{
+	background-color: #ad172b;
+	border-radius: 6px;
+	color: white;
+	width: 150px;
+	height: 40px;
+	margin-left: 50px;
+}
+.footherColor{
+	height: 40px;
+	background-color: #111;
+	position: fixed;
+	bottom: 0px;
+}
